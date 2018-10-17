@@ -1,0 +1,42 @@
+body {
+    background-image: url(../images/el\ dorado\ background.jpg);
+    position: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.jumbotron {
+    text-align: center;
+    width: 1440px;
+    opacity: .25;
+    color: black;
+    padding-bottom: 20px;
+    padding-top: 35px;
+    margin-bottom: 20px;
+
+}
+.display-4 {
+    opacity: 1;
+    font-weight: bold;
+    font-family: fantasy;
+}
+.lead {
+    opacity: 1;
+    font-size: 3em;
+    font-weight: bold;
+    font-family: fantasy;
+}
+#rock {
+    height: 50px;
+    width: 200px;
+    background-image: url(../images/the-road-to-el-dorado-50e25deb1aacb.png);
+    background-repeat: no-repeat;
+    margin-left: 630px;
+    margin-top: 500px;
+    text-align: center;
+    font-family: fantasy;
+    border: 2px solid goldenrod;
+    font-size: 20px;
+    font-weight: bold;
+}
