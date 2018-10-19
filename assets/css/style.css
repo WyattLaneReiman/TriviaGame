@@ -27,16 +27,17 @@ body {
     font-weight: bold;
     font-family: fantasy;
 }
-#rock {
+#startBtn {
     height: 50px;
     width: 200px;
-    background-image: url(../images/the-road-to-el-dorado-50e25deb1aacb.png);
-    background-repeat: no-repeat;
+    background-color: goldenrod;
+    color: blue;
     margin-left: 630px;
     margin-top: 500px;
     text-align: center;
     font-family: fantasy;
-    border: 2px solid goldenrod;
+    border: 2px solid blue;
     font-size: 20px;
     font-weight: bold;
+    opacity: .75;
 }
